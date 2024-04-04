@@ -1,0 +1,15 @@
+C:\Users\bouba\Desktop\c#\TD bank\obj\Debug\net8.0\TD bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bouba\Desktop\c#\TD bank\obj\Debug\net8.0\TD bank.AssemblyInfoInputs.cache
+C:\Users\bouba\Desktop\c#\TD bank\obj\Debug\net8.0\TD bank.AssemblyInfo.cs
+C:\Users\bouba\Desktop\c#\TD bank\obj\Debug\net8.0\TD bank.csproj.CoreCompileInputs.cache
+C:\Users\bouba\Desktop\c#\TD bank\obj\Debug\net8.0\TD bank.sourcelink.json
+C:\Users\bouba\Desktop\c#\TD bank\bin\Debug\net8.0\TD bank.exe
+C:\Users\bouba\Desktop\c#\TD bank\bin\Debug\net8.0\TD bank.deps.json
+C:\Users\bouba\Desktop\c#\TD bank\bin\Debug\net8.0\TD bank.runtimeconfig.json
+C:\Users\bouba\Desktop\c#\TD bank\bin\Debug\net8.0\TD bank.dll
+C:\Users\bouba\Desktop\c#\TD bank\bin\Debug\net8.0\TD bank.pdb
+C:\Users\bouba\Desktop\c#\TD bank\obj\Debug\net8.0\TD bank.dll
+C:\Users\bouba\Desktop\c#\TD bank\obj\Debug\net8.0\refint\TD bank.dll
+C:\Users\bouba\Desktop\c#\TD bank\obj\Debug\net8.0\TD bank.pdb
+C:\Users\bouba\Desktop\c#\TD bank\obj\Debug\net8.0\TD bank.genruntimeconfig.cache
+C:\Users\bouba\Desktop\c#\TD bank\obj\Debug\net8.0\ref\TD bank.dll
